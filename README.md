@@ -27,14 +27,6 @@ Usage
 
 ## Usage
 
-Include the main js module, e.g.:
-
-```js
-
-```
-
-Include either `dist/ReactCrop.css` or `ReactCrop.scss`.
-
 ## Props
 
 #### src (required)
