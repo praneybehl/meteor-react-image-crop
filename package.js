@@ -1,8 +1,8 @@
 Package.describe({
   name: 'praneybehl:react-image-crop',
   version: '0.0.12',
-  summary: 'Simple HTML5 drag-drop zone for ReactJs packaged for Meteor',
-  git: 'https://github.com/praneybehl/meteor-react-dropzone',
+  summary: 'A responsive image cropping tool for React repackaged for Meteor',
+  git: 'https://github.com/praneybehl/meteor-react-image-crop',
   documentation: 'README.md'
 });
 
