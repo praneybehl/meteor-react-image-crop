@@ -19,6 +19,6 @@ Package.onUse(function(api) {
 
 
 Npm.depends({
-  "react-image-crop": "0.0.12",
+  "react-image-crop": "0.1.1",
   "exposify": "0.5.0"
 });
