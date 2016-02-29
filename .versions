@@ -10,7 +10,7 @@ ecmascript-runtime@0.2.6
 ejson@1.0.7
 jsx@0.2.3
 meteor@1.1.10
-praneybehl:react-image-crop@0.0.12
+praneybehl:react-image-crop@0.1.4
 promise@0.5.1
 random@1.0.5
 react@0.1.13
